@@ -1,0 +1,8 @@
+{
+  "name": "VanBeauty",
+  "description": "Premium Beauty E-Commerce and Skin Tone Matcher with Skincare Tracker",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
