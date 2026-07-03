@@ -1,0 +1,49 @@
+buatkan web dengan nama web vanbeauty e commerce khusus untuk produk kecantikan dengan informasi kandungan yang ada pada produk tersebut dan sertifikasi BPOM untuk setiap barang. buatkan fitur untuk membandingkan produk kecantikan.pastikan web bukan single page.lalu fitur Find Your Skin Tone,Skin Tone Checker,Shade Match,Tone Finder
+Deskripsi:
+Temukan warna kulit dan rekomendasi shade makeup yang paling sesuai denganmu agar hasil makeup terlihat lebih natural.
+Cara kerjanya Pengguna menjawab beberapa pertanyaan, misalnya:
+Warna pembuluh darah di pergelangan tangan:
+Biru/Ungu
+Hijau
+Campuran
+Saat terkena matahari:
+Mudah terbakar
+Tan dulu baru terbakar
+Cepat menggelap
+Perhiasan yang paling cocok:
+Silver
+Gold
+Keduanya
+Warna kulit saat ini:
+Fair
+Light
+Light Medium
+Medium
+Tan
+Deep
+Hasil yang ditampilkan
+Undertone: Cool / Warm / Neutral
+Skin Tone: Fair, Light, Medium, Tan, Deep
+Rekomendasi warna foundation
+Rekomendasi warna concealer
+Rekomendasi warna blush
+Rekomendasi lipstik
+Rekomendasi eyeshadow
+Contoh hasil
+
+Your Skin Tone
+Skin Tone: Medium
+Undertone: Warm
+Foundation: Warm Beige, Golden Beige
+Blush: Peach, Coral
+Lipstick: Terracotta, Nude Peach, Brick Red.
+
+lalu Skincare
+Skin Type Quiz (cek jenis kulit: oily, dry, combination, sensitive, normal)
+Skin Concern Finder (jerawat, bekas jerawat, kusam, pori besar, kemerahan, dll.)
+Build Your Skincare Routine (susun urutan skincare pagi & malam)
+Ingredient Checker (jelaskan fungsi niacinamide, retinol, hyaluronic acid, dll.)
+Product Match (rekomendasi produk sesuai kebutuhan kulit)
+Routine Tracker (centang skincare yang sudah dipakai hari ini)
+Before & After Gallery (hasil pemakaian dari pengguna) .
+lalu nanti dia juga nampilin produk dan harganya
